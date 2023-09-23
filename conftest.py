@@ -8,3 +8,4 @@ def open_browser():
     browser.driver.maximize_window()
     yield
     browser.quit()
+
